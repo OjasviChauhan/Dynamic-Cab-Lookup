@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/cabLookup.jpg</file>
+        <file>img/NNS.png</file>
+        <file>img/rangeS.png</file>
+        <file>img/viewData.jpg</file>
+    </qresource>
+</RCC>
