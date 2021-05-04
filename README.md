@@ -5,3 +5,5 @@
 <p align="center">
   <img width="800" height="400" src="https://github.com/OjasviChauhan/Dynamic-Cab-Lookup/blob/main/dcl.PNG">
 </p>
+
+You may download the release version of this software from [here](https://drive.google.com/drive/folders/1njm4YQNWe-V-qYESWCHANEFMPt-HzjRu?usp=sharing).
